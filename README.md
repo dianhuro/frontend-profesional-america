@@ -1,3 +1,5 @@
+Autor: Diego Huertas
+
 frontend-profesional-america
 ============================
 
